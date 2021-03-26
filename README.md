@@ -18,7 +18,7 @@ Read [docs](https://github.com/ByDSA/math-fx/wiki).
 Install (npm):
 
 ```bash
-npm install @danisales/math-fx
+npm install math-fx
 ```
 
 ---
