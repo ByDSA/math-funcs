@@ -30,12 +30,12 @@
   "license": "GPLv3",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ByDSA/math-funcs.git"
+    "url": "git+https://github.com/ByDSA/math-fx.git"
   },
   "bugs": {
-    "url": "https://github.com/ByDSA/math-funcs/issues"
+    "url": "https://github.com/ByDSA/math-fx/issues"
   },
-  "homepage": "https://github.com/ByDSA/math-funcs#readme",
+  "homepage": "https://github.com/ByDSA/math-fx#readme",
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@typescript-eslint/eslint-plugin": "^4.19.0",
