@@ -1,5 +1,5 @@
 {
-  "name": "@danisales/math-funcs",
+  "name": "math-fx",
   "version": "1.0.0",
   "description": "A Math Function Evaluator. Piecewise compatible.",
   "main": "dist/index.js",
