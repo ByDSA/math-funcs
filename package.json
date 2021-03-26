@@ -1,5 +1,5 @@
 {
-  "name": "math-functions",
+  "name": "@danisales/math-funcs",
   "version": "0.0.1",
   "description": "A Math Function Evaluator. Piecewise compatible.",
   "main": "dist/index.js",
@@ -22,6 +22,7 @@
   "keywords": [
     "math",
     "func",
+    "function",
     "eval",
     "piecewise"
   ],
